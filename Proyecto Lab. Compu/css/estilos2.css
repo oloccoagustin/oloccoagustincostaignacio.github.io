@@ -1,0 +1,18 @@
+body {
+  background: url('Personas-comprando-auto.jpg') center/cover no-repeat fixed;
+  margin: 0%;
+  padding: 0%;
+  font-family: 'Segoe UI', sans-serif;
+}
+.footer {
+  background-color: #121212;
+  color: #f1f1f1;
+  font-size: 0.95rem;
+  box-shadow: 0 -2px 10px rgba(0,0,0,0.3);
+  position: absolute;
+  z-index: 10;
+}
+
+.footer strong {
+  color: #ffffff;
+}
